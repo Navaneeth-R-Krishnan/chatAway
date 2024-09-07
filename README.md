@@ -1,3 +1,3 @@
 ### ChatAway - An AI - MERN chatbot application. 
 
-## Tech Stack - React, Mongo, Express, GeminiAI. 
+ Tech Stack - React, Mongo, Express, GeminiAI. 
